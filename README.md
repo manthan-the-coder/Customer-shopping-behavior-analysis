@@ -1,6 +1,5 @@
 # Customer-shopping-behavior-analysis
 End-to-end customer shopping behavior analysis using Python, PostgreSQL and Power BI.
-# Customer Shopping Behavior Analysis
 
 ## Project Overview
 
