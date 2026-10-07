@@ -23,9 +23,6 @@ Python → Exploratory Data Analysis → PostgreSQL → Business Analysis → Po
 
 - Python
 - Pandas
-- NumPy
-- Matplotlib
-- Seaborn
 - Jupyter Notebook
 - PostgreSQL
 - pgAdmin 4
